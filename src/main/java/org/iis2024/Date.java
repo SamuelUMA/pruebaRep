@@ -59,7 +59,7 @@ public class Date {
 	  this.day = day;
 	  this.month = month;
 	  this.year = year;
-	 }
+  }
   private void methodAddedbyTheOwner() {
 	  System.out.println("Metodo puesto por el dueño");
   }
